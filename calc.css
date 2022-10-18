@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(170, 163, 123);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box1 {
+    display: flex;
+    justify-content: flex-start;
+    margin: auto;
+}
+
+.box2 {
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+    background-color: rgb(14, 238, 89);
+}
+#answer {
+    justify-content: center;
+        width: 100px;
+        height: 20px;
+        padding: 10px;
+        border: 2px solid rgb(87, 10, 73);
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 75px;
+}
